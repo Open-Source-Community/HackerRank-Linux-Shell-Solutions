@@ -3,7 +3,7 @@
 ## Easy
 
 0. [Problem Name](sample-solution.sh)
-1. [Cut#3](Cut#3.sh)
+1. [Cut#3](Cut%233.sh)
 
 ## Medium
 
