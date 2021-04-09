@@ -4,6 +4,7 @@
 
 0. [Problem Name](sample-solution.sh)
 1. [Cut#3](Cut%233.sh)
+2. [Cut#4](Cut%234.sh)
 
 ## Medium
 
