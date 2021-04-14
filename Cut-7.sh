@@ -5,8 +5,6 @@ cut -d " " -f4
 
 # Naïve Solution
 #-------------------------------------------- 
-! /bin/bash
-
 while read line
 do 
     j=0
