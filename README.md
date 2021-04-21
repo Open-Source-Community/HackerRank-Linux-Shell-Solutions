@@ -12,6 +12,7 @@
 1. [Arithmetic Operations](Arithmetic-Operations.sh)
 2. [Compute the Average](Compute-the-Average.sh)
 3. [Filter an Array with Patterns](Filter-an-Array-with-Patterns.sh)
+4. ['Grep' #1](Grep-1.sh)
 
 
 ## Hard
