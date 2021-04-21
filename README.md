@@ -5,10 +5,13 @@
 0. [Problem Name](sample-solution.sh)
 1. [Cut#3](Cut%233.sh)
 2. [Cut#4](Cut%234.sh)
+3. [Count-the-number-of-elements-in-an-Array.sh](Count-the-number-of-elements-in-an-Array.sh)
 
 ## Medium
-1.[Arithmetic Operations](Arithmetic-Operations.sh)
-2.[Compute the Average](Compute-the-Average.sh)
+1. [Arithmetic Operations](Arithmetic-Operations.sh)
+2. [Compute the Average](Compute-the-Average.sh)
+
+
 ## Hard
 
 
