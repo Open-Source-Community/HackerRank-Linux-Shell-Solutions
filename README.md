@@ -8,6 +8,7 @@
 3. [Count the number of elements in an Array.sh](Count-the-number-of-elements-in-an-Array.sh)
 4. [Cut#9](cut-9.sh)
 5. [Head of a Text File #1](head-of-the-text-file-1.sh)
+6. [Sort command#5.sh](Sort-command-5.sh)
 
 ## Medium
 1. [Arithmetic Operations](Arithmetic-Operations.sh)
