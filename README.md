@@ -8,7 +8,7 @@
 
 ## Medium
 1.[Arithmetic Operations](Arithmetic-Operations.sh)
-
+2.[Compute the Average](Compute-the-Average.sh)
 ## Hard
 
 
