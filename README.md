@@ -7,7 +7,7 @@
 2. [Cut#4](Cut%234.sh)
 
 ## Medium
-
+1.[Arithmetic Operations](Arithmetic-Operations.sh)
 
 ## Hard
 
